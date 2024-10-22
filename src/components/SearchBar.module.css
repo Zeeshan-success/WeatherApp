@@ -1,0 +1,22 @@
+.SearchBar{
+  background-color: rgba(217,217,217,0.5);
+  
+  max-width: 90vh;
+  margin: auto;
+  
+
+  border-radius: 5rem;
+  background-color: rgba(red, green, blue, alpha)
+}
+.icon{
+  font-size: 1.75rem;
+}
+.input{
+  border: none;
+  outline: none;
+  background-color: transparent;
+  width: 85%;
+  line-height: 2rem;
+}
+
+
